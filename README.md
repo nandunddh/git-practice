@@ -1,4 +1,4 @@
-# Git Practice
+# My Git Notes
 
 My first repo for learning Git and GitHub.
 Learning branches, merging and remotes
